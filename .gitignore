@@ -1,0 +1,19 @@
+# Database credentials
+auth/db.php
+
+# User uploaded files
+uploads/
+
+# PDF tools / binaries
+xpdf-tools-win-*/
+
+# Executables
+*.exe
+
+# Logs / temp files
+*.log
+*.tmp
+
+# IDE / editor files
+.vscode/
+.idea/
